@@ -1,0 +1,6 @@
+{
+  "name": "BioTrail - Offline Open-AI Wilderness Scout",
+  "description": "Local bioacoustic bird identification, offline foliage recognition, and trail micro-adventures powered by client-side open-weight models with zero cell service required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
